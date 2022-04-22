@@ -5,6 +5,9 @@ contributor:
     agent_name: Mattos, Alexander Texeira de
     gutenberg_agent_id: '54469'
     url: http://www.gutenberg.org/2009/agents/54469
+covers:
+- cover_type: archival
+  image_path: 67806-h/images/cover.jpg
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -16,6 +19,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
     - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67806#Mary-Magdalene-A-Play-in-Three-Acts
 gutenberg_issued: '2022-04-10'
 identifiers:
   gutenberg: '67806'
